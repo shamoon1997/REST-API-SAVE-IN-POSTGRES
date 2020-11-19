@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-save-in-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/shamoon1997/rest-api-save-in-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/shamoon1997/rest-api-save-in-postgres/issues"
+  },
+  "homepage": "https://gitlab.com/shamoon1997/rest-api-save-in-postgres#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonschema": "^1.4.0",
+    "pg": "^8.5.1"
+  }
+}

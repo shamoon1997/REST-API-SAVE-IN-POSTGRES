@@ -1,0 +1,10 @@
+{
+    "id": "MoviesSchema",
+    "type": "Object",
+    "properties": {
+        "id": { "type": "number", "minimum": 1 },
+        "Moviename": { "type": "string" },
+        "Year": { "type": "number", "minimum": 1900 }
+    },
+    "required": ["id", "Moviename", "Year"]
+}
